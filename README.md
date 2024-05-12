@@ -22,15 +22,15 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://instagram.com/clov.1st" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-      alt="clov.1st" height="30" width="40" /></a>
- <a href="https://twitter.com/clov.1st" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
-      alt="clov.1st" height="30" width="40" /></a>
   <a href="https://discord.com/users/950652266103320586" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg"
       alt="Clov" height="30" width="40" /></a>
+  <a href="https://instagram.com/clov.1st" target="blank"><img align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
+      alt="clov.1st" height="30" width="40" /></a>
+ <a href="https://twitter.com/clov1st" target="blank"><img align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
+      alt="clov.1st" height="30" width="40" /></a>
   <a href="https://chat.whatsapp.com/C6HnV3PeQgb60EIMul4NX0" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg"
       alt="Clov Group" height="30" width="40" /></a>
