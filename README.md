@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Clovis</h1>
-<h3 align="center">I am a student at a Vocational High School, focusing on Software Programming and Game Development. I have a strong desire to learn and master various technologies and programming languages, I use GitHub as a platform to showcase my projects, get valuable feedback, and connect with other developers. I am open to suggestions or collaboration and am very enthusiastic about learning from the global community.</h3>
+<h3 align="center">I am a fresh graduated from a Vocational High School, focusing on Software Programming and Game Development. I have a strong desire to learn and master various technologies and programming languages, I use GitHub as a platform to showcase my projects, get valuable feedback, and connect with other developers. I am open to suggestions or collaboration and am very enthusiastic about learning from the global community.</h3>
 
 <br>
 
